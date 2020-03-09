@@ -13,5 +13,3 @@
 - Reading
 - Swimming
 - Play badminton
-
-
