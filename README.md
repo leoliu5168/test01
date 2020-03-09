@@ -1,7 +1,7 @@
 # Self introduction
 
 ## About me
-![](https://img.lovepik.com/element/40120/0740.png_1200.png "internet")
+![劉峻宇](https://scontent.ftpe10-1.fna.fbcdn.net/v/t1.0-9/13754428_897155820392734_7716635049004032367_n.jpg?_nc_cat=107&_nc_sid=85a577&_nc_ohc=hiX1lOFdNPsAX95GOsw&_nc_ht=scontent.ftpe10-1.fna&oh=45b658cb49868508fb97d77a53a8fd53&oe=5E8F11AB "Facebook")
 - My name is Leo. **(劉峻宇)**
 - Student ID : 10528218 
 - Major in electrical engineering.
